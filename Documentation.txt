@@ -1,0 +1,11 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                              WEB SCRAPER                             ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+1. Enter the information for each required field.
+2. wait for the search to be done of the queries number entered. 
+3. when the search ends an Excel file is exported with the data,  in the same folder as the executable. 
+4. each query result is generated in a new Excel sheet 
+
+Note:
+An API  with 5000 credits is being used for google searches, in case of an error a new key must be generated (file Environment - apiKey)
